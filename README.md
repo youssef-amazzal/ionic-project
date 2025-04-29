@@ -118,14 +118,6 @@ Follow these instructions to get a local copy up and running.
 
 ## Screenshots
 
-**1. Main Timer View (Work Session Ready)**
-![Main Timer View](images/screenshot-main-work.png)
-
-**2. Timer Running (Pause Visible)**
-![Timer Running](images/screenshot-timer-running.png)
-
-**3. Short Break View**
-![Short Break View](images/screenshot-short-break.png)
-
-**4. Long Break View**
-![Long Break View](images/screenshot-long-break.png)
+|                                Main Timer View                                 |                                  Timer Running                                   |                                 Short Break View                                  |                                 Long Break View                                 |
+| :----------------------------------------------------------------------------: | :------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------: |
+| <img src="images/screenshot-main-work.png" alt="Main Timer View" width="400"/> | <img src="images/screenshot-timer-running.png" alt="Timer Running" width="400"/> | <img src="images/screenshot-short-break.png" alt="Short Break View" width="400"/> | <img src="images/screenshot-long-break.png" alt="Long Break View" width="400"/> |
